@@ -5,7 +5,7 @@
 ### My email: [leonelp8111@hstat.org]()
 ### Link to [portfolio](https://leonelp8111.github.io/)
 ---
-#### I like playing games and spending time with friends and family. I have four siblings and I'm second to youngest.
+#### I like playing games and spending time with friends and family. I have four siblings and I'm second to youngest in my family.
 ---
 ## *Schedule*
 - SEP10
@@ -16,3 +16,5 @@
 - Lunch
 - ELA
 - Algebra
+
+reviewed by Shelly
